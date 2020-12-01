@@ -8,6 +8,6 @@ public class SimpleCalculator {
 		return c - d;
 	}
 	public int mult(int e, int f) {
-		return e - f;
+		return e * f;
 	}
 }
