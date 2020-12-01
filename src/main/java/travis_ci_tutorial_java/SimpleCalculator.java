@@ -11,6 +11,6 @@ public class SimpleCalculator {
 		return e * f;
 	}
 	public int div(int g, int h) {
-		return g * h;
+		return g / h;
 	}
 }
